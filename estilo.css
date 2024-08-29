@@ -1,0 +1,17 @@
+#text1 {
+    background-color: blueviolet;
+}
+
+#text2 {
+    background-color: coral;
+    width: 40%;
+    display: none;
+}
+
+#caja3 p {
+    transition: font-size 0.3s ease;
+}
+
+#img {
+    transition: width 0.3s ease;
+}
